@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+<title>Information on why you shouldn't support Mountain Ridge Marching Band</title>
+<style>
+  .font-change-large {
+    font-size: 50px;
+}
+  .font-change-small {
+    font-size: 10px;
+}
+</style>
+</head>
+<body>
+body {
+  background: linear-gradient(to right, red, green);
+}
+<p class="font-change-large">Reasons why you shouldn't support Mountain Rideg Marching Band</p>
+<p>
+<ul>
+  <li>Time Commitment: It can easily take up to at least 15 hours a week of your time when that time can be used for better purposes.
+  <li>Academic Demands: Similarly stated above, that time can be used to make up missing work and study for tests and plus you need to not only keep up with band, your grades as well.
+  <li>Physical Demands: You need to be in good shape to have the stamina to march for hours outside which doesn't fit people with health and physical limitations. Also for the healthy people, it still requires you to stay very healthy meaning you have to exercise to a high degree.
+  <li>Personal Demands: There are better activities that take up less time such as chess and origami and require less energy to be put into.
+  <li>Social Commitments: Playing in a band can limit your availability for other things like social interactions.
+  <li>Stress and Pressure: This one is obvious to see from just seeing Marching Band. The stress and pressure from playing in marching band and maintaing good grades is no easy task.
+  <li>Travel Requirements: Marching band forces you to travel to many places and events which is a horrible choice for an activity for those who hate wasting time.
+  <li>Conflicting Piorities: If you are a type of person with piorities, you better not choose marching band as a priority due to as it takes so much time from you.
+  <li>Personal Preference: Nobody is forcing you to do marching band, if you want to you can but this information is to just to inform you of what it takes to play in a marching band.
+</ul>
+<p>
+<p>
+<p>
+<p class="font-change-small">Just remember that these reasons doesn't apply to everyone and you can choose if you want to play or not as stated in the last reason</p>
+</body>
+</html>
